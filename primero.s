@@ -1,3 +1,7 @@
+#Programa primero.s
+# Instituto Tecnologico de Tijuana  Tecnm
+# Ingenieria en sitemas computacionales
+# Luis Humberto Estrada Gallegos
 @ primero.s
 @   from thinkingeek.com
 @   http://thinkingeek.com/2013/01/09/arm-assembler-raspberry-pi-chapter-1/
